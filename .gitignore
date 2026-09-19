@@ -1,0 +1,7 @@
+.DS_Store
+**/.idea/
+**/.idea_backup/
+**/target/
+**/data/
+*.mv.db
+*.trace.db
